@@ -22,3 +22,5 @@ if on arch, get it from AUR
 ```bash
 yay -S neovim-git
 ```
+
+...remember, its still incomplete, don't have the intellisense set up.
