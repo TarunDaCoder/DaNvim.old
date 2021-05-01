@@ -6,14 +6,14 @@
 "        \/         \/              \/ 
 
 "Sources
-source ~/.config/nvim/vim-plug/dacodersplugins.vim
-source ~/.config/nvim/general/settings.vim
-source ~/.config/nvim/colours/colours.vim
-source ~/.config/nvim/plug_config/coc.vim
-source ~/.config/nvim/plug_config/sneak.vim
-source ~/.config/nvim/plug_config/rnvimr.vim
-source ~/.config/nvim/plug_config/dashboard.vim
-source ~/.config/nvim/plug_config/fzf_stuff.vim
-source ~/.config/nvim/plug_config/git_stuff.vim
-source ~/.config/nvim/plug_config/nerdcommenter.vim
-source ~/.config/nvim/general/tabs.vim
+source ~/.config/nvim/davim-plug/daplugins.vim
+source ~/.config/nvim/dageneral/settings.vim
+source ~/.config/nvim/dacolours/colours.vim
+source ~/.config/nvim/daplug_config/coc.vim
+source ~/.config/nvim/daplug_config/sneak.vim
+source ~/.config/nvim/daplug_config/rnvimr.vim
+source ~/.config/nvim/daplug_config/dashboard.vim
+source ~/.config/nvim/daplug_config/fzf_stuff.vim
+source ~/.config/nvim/daplug_config/git_stuff.vim
+source ~/.config/nvim/daplug_config/nerdcommenter.vim
+source ~/.config/nvim/dageneral/tabs.vim
