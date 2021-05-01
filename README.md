@@ -1,14 +1,14 @@
-#My neovim config
+# My neovim config
 
 This is my neovim config, its coded in vimscript. Hope you find what you're looking for.
 
-##Install my version of neovim
+## Install my version of neovim
 ```bash
 cd ~/.config
 git clone https://github.com/TarunDaCoder/nvim
 ```
 
-##How to get the latest stable neovim version
+## How to get the latest stable neovim version
 ```bash
 cd ~
 sudo rm -r neovim
