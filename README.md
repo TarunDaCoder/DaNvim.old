@@ -2,7 +2,7 @@
 
 This is my neovim config, its coded in vimscript. Hope you find what you're looking for.
 
-## Install my version of neovim
+## Install my neovim config
 ```bash
 cd ~/.config
 git clone https://github.com/TarunDaCoder/nvim
