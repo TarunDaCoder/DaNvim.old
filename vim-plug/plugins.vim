@@ -24,7 +24,7 @@ Plug 'terryma/vim-multiple-cursors'
 "Easy comment
 Plug 'preservim/nerdcommenter'
 "Snippets
-Plug 'sirver/ultisnips'
+Plug 'sirver/ultisnips' | Plug 'honza/vim-snippets'
 "Auto pairs for {, ( and [
 Plug 'jiangmiao/auto-pairs'
 "Intellisense

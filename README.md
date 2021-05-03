@@ -23,4 +23,4 @@ if on arch, get it from AUR
 yay -S neovim-git
 ```
 
-...remember, its still incomplete, don't have the intellisense set up.
+...remember, its still incomplete, don't have the syntax-highlighting set up.
