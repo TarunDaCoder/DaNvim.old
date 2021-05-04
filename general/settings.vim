@@ -28,6 +28,7 @@ set signcolumn=yes
 set colorcolumn=80
 set complete+=kspell
 set completeopt=menuone,longest
+set laststatus=2
 "Give more space for displaying messages
 set cmdheight=2
 highlight ColorColumn ctermbg=0 guibg=lightgrey

@@ -17,6 +17,7 @@ Plug 'liuchengxu/vim-clap'
 " Status bar
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
+Plug 'itchyny/lightline.vim'
 "Colorizer
 Plug 'norcalli/nvim-colorizer.lua'
 "Multiple cursors

@@ -8,3 +8,7 @@ if (has("termguicolors"))
 endif
 
 lua require 'colorizer'.setup()
+
+"Making the lightline theme also xshado
+let g:lightline = { 'colorscheme': 'deus' }
+"Currently there is no shadotheme for airline, so can't do that.
