@@ -17,3 +17,4 @@ source ~/.config/nvim/plug_config/fzf_stuff.vim
 source ~/.config/nvim/plug_config/git_stuff.vim
 source ~/.config/nvim/plug_config/nerdcommenter.vim
 source ~/.config/nvim/general/tabs.vim
+source ~/.config/nvim/general/mappings.vim
